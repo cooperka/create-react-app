@@ -1,6 +1,6 @@
 {
   "name": "@cooperka/react-scripts",
-  "version": "2.1.3-transformIgnorePatterns",
+  "version": "2.1.3-transformIgnorePatterns-babelJest",
   "publishConfig": {
     "access": "public"
   },
